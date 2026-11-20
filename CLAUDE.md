@@ -87,6 +87,21 @@ Bắt đầu từ Chương 1, mục 1.1 đến 1.3 (giới thiệu, hàng rào v
 | antimicrobial peptides | peptide kháng khuẩn |
 | colonization | sự định cư (của vi khuẩn) |
 | cystic fibrosis | bệnh xơ nang |
+| physical / chemical / cellular defenses | cơ chế bảo vệ vật lý / hóa học / tế bào |
+| cell junction | liên kết tế bào |
+| extracellular matrix | chất nền ngoại bào |
+| mucociliary blanket | thảm nhầy lông chuyển |
+| cilia | lông chuyển |
+| normal microbiota | hệ vi sinh vật bình thường |
+| transient microbes | vi sinh vật thoáng qua |
+| sterile | vô khuẩn |
+| portal of entry | đường vào |
+| plasma protein mediators | chất trung gian là protein huyết tương |
+| inflammation-eliciting mediators | chất trung gian gây viêm |
+| granulocytes / agranulocytes | bạch cầu hạt / bạch cầu không hạt |
+| central nervous system (CNS) | hệ thần kinh trung ương (CNS) |
+| cerebrospinal fluid | dịch não tủy |
+| fecal transplantation | cấy ghép phân |
 
 Chưa chốt: "dermis" (trung bì hay chân bì) và "mucociliary escalator". Hỏi chủ trang trước khi đổi, và bổ sung thuật ngữ mới vào bảng này khi gặp.
 
